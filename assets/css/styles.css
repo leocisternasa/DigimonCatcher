@@ -17,6 +17,9 @@
 }
 
 @media (min-width: 368px) and (max-width: 991px) {
+  .cardSeleccionada {
+    margin-left: 5vw;
+  }
   .smargin {
     margin-left: 15vw;
   }
@@ -37,6 +40,9 @@
 
 
 @media screen and (max-width: 367px) {
+  .cardSeleccionada{
+    margin-left: 5vw;
+  }
   .xsmargin {
     margin-left: 6vw;
   }
