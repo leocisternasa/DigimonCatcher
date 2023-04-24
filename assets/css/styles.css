@@ -18,7 +18,7 @@
 
 @media (min-width: 368px) and (max-width: 991px) {
   .cardSeleccionada {
-    margin-left: 5vw;
+    margin-left: 0vw;
   }
   .smargin {
     margin-left: 15vw;
@@ -41,7 +41,7 @@
 
 @media screen and (max-width: 367px) {
   .cardSeleccionada{
-    margin-left: 5vw;
+    margin-left: 0vw;
   }
   .xsmargin {
     margin-left: 6vw;
