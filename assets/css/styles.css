@@ -1,3 +1,64 @@
 .searchBarMargin {
-  margin-right: 20vw;
+  margin-right: 15vw;
+  margin-left: 5vw;
 }
+
+.searchBar {
+  height: 5vh;
+  width: 20vw;
+}
+
+.marginMain {
+  margin-top: 15vh;
+}
+
+.cardSeleccionada {
+  margin-left: 32vw;
+}
+
+@media (min-width: 368px) and (max-width: 991px) {
+  .smargin {
+    margin-left: 15vw;
+  }
+
+  .searchwidth {
+    width: auto;
+    margin-inline: 15vw;
+  }
+
+  .margintopresponsive {
+    margin-top: 25vh;
+  }
+
+  .marginNavButton {
+    margin-left: 10vw;
+  }
+}
+
+
+@media screen and (max-width: 367px) {
+  .xsmargin {
+    margin-left: 6vw;
+  }
+
+  .searchwidth {
+    width: auto;
+    margin-inline: 15vw;
+  }
+
+  .margintopresponsive {
+    margin-top: 25vh;
+  }
+}
+
+.search-input-img {
+  background-image: url('/assets/images/search.png');
+  background-repeat: no-repeat;
+  background-size: 20px 20px; /* Tamaño de la imagen */
+  background-position: 5px center; /* Posición de la imagen */
+  padding-left: 40px; /* Espacio para la imagen */
+}
+
+
+
+ 
